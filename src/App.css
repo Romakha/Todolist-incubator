@@ -1,9 +1,8 @@
 .App {
+  padding: 30px;
   display: flex;
-  padding: 100px 350px;
 }
 
-.qwerty {
-  margin-left: 70px;
+.App > div {
+  margin-right: 50px;
 }
-
